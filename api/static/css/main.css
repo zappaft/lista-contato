@@ -1,0 +1,59 @@
+.center-text {
+	text-align: center;
+}
+
+input[type="text"] {
+	text-align: center;
+}
+
+.icon-spacing {
+	margin-right: .5rem;
+}
+
+.delete-icon:hover {
+	color: red;
+}
+
+.email-hover:hover {
+	color: blue;
+}
+
+.edit-icon:hover {
+	color: greenyellow;
+}
+
+.box-container {
+	background-color: #ddd;
+	padding: 15px;
+}
+
+.body-container {
+	margin: 5px;
+	background-color: #eee;
+}
+
+.rounded-corner {
+	border-radius: 10px;
+}
+
+.interactable {
+	position: relative;
+	display: inline-block;
+	border-bottom: 1px dotted red;
+}
+
+.interactable .interactable-text {
+	visibility: hidden;
+	width: 10rem;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px 0;
+	border-radius: 6px;
+	position: absolute;
+	z-index: 1;
+}
+
+.interactable:hover .interactable-text {
+	visibility: visible;
+}
