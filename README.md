@@ -17,10 +17,3 @@ python app.py
 Abra o endereço no navegador: 127.0.0.1:5000/
 
 Pronto!
-
-## Usabilidade
-![](https://media.giphy.com/media/JtGJjZaZgWXn9koJxm/giphy.gif)
-![](https://media.giphy.com/media/lqA6AuProyKq3LTL0U/giphy.gif)
-![](https://media.giphy.com/media/f5XxG5CtNV52Iq7NCY/giphy.gif)
-![](https://media.giphy.com/media/ZAxT1IHMLPjLWnM0c0/giphy.gif)
-![](https://media.giphy.com/media/WQrYbwP4VesZ8P67ee/giphy.gif)
